@@ -1,0 +1,668 @@
+Informações dos adaptadores de rede
+-----------------------------------
+
+Configuração de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : DEV1
+   Sufixo DNS primário . . . . . . . . . . . . : 
+   Tipo de nó. . . . . . . . . . . . . . . . . : híbrido
+   Roteamento de IP ativado. . . . . . . . . . : não
+   Proxy WINS ativado. . . . . . . . . . . . . : não
+
+Adaptador de Rede sem Fio Conexão Local* 3:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . : 
+   Descrição . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Endereço Físico . . . . . . . . . . . . . . : 80-38-FB-61-E7-BC
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conexão Local* 4:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . : 
+   Descrição . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #4
+   Endereço Físico . . . . . . . . . . . . . . : 82-38-FB-61-E7-BB
+   DHCP Habilitado . . . . . . . . . . . . . . : Não
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . : 
+   Descrição . . . . . . . . . . . . . . . . . : Intel(R) Wireless-AC 9560
+   Endereço Físico . . . . . . . . . . . . . . : 80-38-FB-61-E7-BB
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 . . . . . . . . . . : 2804:14c:5bd0:85c1:c336:793f:d8b6:dfe9(Preferencial) 
+   Endereço IPv6 Temporário. . . . . . . . : 2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb(Preferencial) 
+   Endereço IPv6 de link local . . . . . . . . : fe80::bba:456c:de08:fe33%10(Preferencial) 
+   Endereço IPv4. . . . . . . .  . . . . . . . : 192.168.0.5(Preferencial) 
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concessão Obtida. . . . . . . . . . . . . . : sábado, 30 de novembro de 2024 08:56:26
+   Concessão Expira. . . . . . . . . . . . . . : quarta-feira, 7 de janeiro de 2161 17:45:47
+   Gateway Padrão. . . . . . . . . . . . . . . : fe80::1%10
+                                                 192.168.0.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.0.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 125843707
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2B-66-E6-5B-80-38-FB-61-E7-BB
+   Servidores DNS. . . . . . . . . . . . . . . : 192.168.0.1
+                                                 fe80::1%10
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+
+Testar conectividade com Google
+-------------------------------
+
+Disparando google.com [2800:3f0:4004:807::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:807::200e: tempo=13ms 
+Resposta de 2800:3f0:4004:807::200e: tempo=14ms 
+Resposta de 2800:3f0:4004:807::200e: tempo=14ms 
+Resposta de 2800:3f0:4004:807::200e: tempo=14ms 
+
+Estatísticas do Ping para 2800:3f0:4004:807::200e:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 13ms, Máximo = 14ms, Média = 13ms
+
+
+Informações dos adaptadores de rede
+-----------------------------------
+
+Configuração de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : DEV1
+   Sufixo DNS primário . . . . . . . . . . . . : 
+   Tipo de nó. . . . . . . . . . . . . . . . . : híbrido
+   Roteamento de IP ativado. . . . . . . . . . : não
+   Proxy WINS ativado. . . . . . . . . . . . . : não
+
+Adaptador de Rede sem Fio Conexão Local* 3:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . : 
+   Descrição . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Endereço Físico . . . . . . . . . . . . . . : 80-38-FB-61-E7-BC
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conexão Local* 4:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . : 
+   Descrição . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #4
+   Endereço Físico . . . . . . . . . . . . . . : 82-38-FB-61-E7-BB
+   DHCP Habilitado . . . . . . . . . . . . . . : Não
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . : 
+   Descrição . . . . . . . . . . . . . . . . . : Intel(R) Wireless-AC 9560
+   Endereço Físico . . . . . . . . . . . . . . : 80-38-FB-61-E7-BB
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 . . . . . . . . . . : 2804:14c:5bd0:85c1:c336:793f:d8b6:dfe9(Preferencial) 
+   Endereço IPv6 Temporário. . . . . . . . : 2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb(Preferencial) 
+   Endereço IPv6 de link local . . . . . . . . : fe80::bba:456c:de08:fe33%10(Preferencial) 
+   Endereço IPv4. . . . . . . .  . . . . . . . : 192.168.0.5(Preferencial) 
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concessão Obtida. . . . . . . . . . . . . . : sábado, 30 de novembro de 2024 08:56:26
+   Concessão Expira. . . . . . . . . . . . . . : quarta-feira, 7 de janeiro de 2161 17:47:43
+   Gateway Padrão. . . . . . . . . . . . . . . : fe80::1%10
+                                                 192.168.0.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.0.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 125843707
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2B-66-E6-5B-80-38-FB-61-E7-BB
+   Servidores DNS. . . . . . . . . . . . . . . : 192.168.0.1
+                                                 fe80::1%10
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+
+Testar conectividade com Google
+-------------------------------
+
+Disparando google.com [2800:3f0:4004:807::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:807::200e: tempo=13ms 
+Resposta de 2800:3f0:4004:807::200e: tempo=15ms 
+Resposta de 2800:3f0:4004:807::200e: tempo=13ms 
+Resposta de 2800:3f0:4004:807::200e: tempo=14ms 
+
+Estatísticas do Ping para 2800:3f0:4004:807::200e:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 13ms, Máximo = 15ms, Média = 13ms
+
+
+Informações dos adaptadores de rede
+-----------------------------------
+
+Configuração de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : DEV1
+   Sufixo DNS primário . . . . . . . . . . . . : 
+   Tipo de nó. . . . . . . . . . . . . . . . . : híbrido
+   Roteamento de IP ativado. . . . . . . . . . : não
+   Proxy WINS ativado. . . . . . . . . . . . . : não
+
+Adaptador de Rede sem Fio Conexão Local* 3:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . : 
+   Descrição . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Endereço Físico . . . . . . . . . . . . . . : 80-38-FB-61-E7-BC
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conexão Local* 4:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . : 
+   Descrição . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #4
+   Endereço Físico . . . . . . . . . . . . . . : 82-38-FB-61-E7-BB
+   DHCP Habilitado . . . . . . . . . . . . . . : Não
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . : 
+   Descrição . . . . . . . . . . . . . . . . . : Intel(R) Wireless-AC 9560
+   Endereço Físico . . . . . . . . . . . . . . : 80-38-FB-61-E7-BB
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 . . . . . . . . . . : 2804:14c:5bd0:85c1:c336:793f:d8b6:dfe9(Preferencial) 
+   Endereço IPv6 Temporário. . . . . . . . : 2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb(Preferencial) 
+   Endereço IPv6 de link local . . . . . . . . : fe80::bba:456c:de08:fe33%10(Preferencial) 
+   Endereço IPv4. . . . . . . .  . . . . . . . : 192.168.0.5(Preferencial) 
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concessão Obtida. . . . . . . . . . . . . . : sábado, 30 de novembro de 2024 08:56:26
+   Concessão Expira. . . . . . . . . . . . . . : quarta-feira, 7 de janeiro de 2161 17:50:47
+   Gateway Padrão. . . . . . . . . . . . . . . : fe80::1%10
+                                                 192.168.0.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.0.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 125843707
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2B-66-E6-5B-80-38-FB-61-E7-BB
+   Servidores DNS. . . . . . . . . . . . . . . : 192.168.0.1
+                                                 fe80::1%10
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+
+Consultar DNS do Google
+-----------------------
+Servidor:  gpon.net
+Address:  192.168.0.1
+
+Nome:    google.com
+Addresses:  2800:3f0:4004:807::200e
+	  142.250.78.206
+
+
+
+Exibir tabela ARP
+-----------------
+
+Interface: 192.168.0.5 --- 0xa
+  Endereço IP           Endereço físico       Tipo
+  192.168.0.1           e4-66-ab-59-17-66     dinâmico  
+  192.168.0.4           40-e2-30-38-78-70     dinâmico  
+  192.168.0.255         ff-ff-ff-ff-ff-ff     estático  
+  224.0.0.22            01-00-5e-00-00-16     estático  
+  224.0.0.251           01-00-5e-00-00-fb     estático  
+  224.0.0.252           01-00-5e-00-00-fc     estático  
+  239.255.255.250       01-00-5e-7f-ff-fa     estático  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     estático  
+
+
+Testar conectividade com Google
+-------------------------------
+
+Disparando google.com [2800:3f0:4004:807::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:807::200e: tempo=13ms 
+Resposta de 2800:3f0:4004:807::200e: tempo=14ms 
+Resposta de 2800:3f0:4004:807::200e: tempo=13ms 
+Resposta de 2800:3f0:4004:807::200e: tempo=13ms 
+
+Estatísticas do Ping para 2800:3f0:4004:807::200e:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 13ms, Máximo = 14ms, Média = 13ms
+
+
+Exibir tabela de roteamento
+---------------------------
+===========================================================================
+Lista de interfaces
+  3...80 38 fb 61 e7 bc ......Microsoft Wi-Fi Direct Virtual Adapter #3
+  4...82 38 fb 61 e7 bb ......Microsoft Wi-Fi Direct Virtual Adapter #4
+ 10...80 38 fb 61 e7 bb ......Intel(R) Wireless-AC 9560
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+Tabela de rotas IPv4
+===========================================================================
+Rotas ativas:
+Endereço de rede          Máscara   Ender. gateway       Interface   Custo
+          0.0.0.0          0.0.0.0      192.168.0.1      192.168.0.5     35
+        127.0.0.0        255.0.0.0      No vínculo         127.0.0.1    331
+        127.0.0.1  255.255.255.255      No vínculo         127.0.0.1    331
+  127.255.255.255  255.255.255.255      No vínculo         127.0.0.1    331
+      192.168.0.0    255.255.255.0      No vínculo       192.168.0.5    291
+      192.168.0.5  255.255.255.255      No vínculo       192.168.0.5    291
+    192.168.0.255  255.255.255.255      No vínculo       192.168.0.5    291
+        224.0.0.0        240.0.0.0      No vínculo         127.0.0.1    331
+        224.0.0.0        240.0.0.0      No vínculo       192.168.0.5    291
+  255.255.255.255  255.255.255.255      No vínculo         127.0.0.1    331
+  255.255.255.255  255.255.255.255      No vínculo       192.168.0.5    291
+===========================================================================
+Rotas persistentes:
+  Nenhuma
+
+Tabela de rotas IPv6
+===========================================================================
+Rotas ativas:
+ Se destino de rede de métrica      Gateway
+ 10     51 ::/0                     fe80::1
+  1    331 ::1/128                  No vínculo
+ 10     51 2804:14c:5bd0:85c1::/64  No vínculo
+ 10    291 2804:14c:5bd0:85c1:c336:793f:d8b6:dfe9/128
+                                    No vínculo
+ 10    291 2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb/128
+                                    No vínculo
+ 10    291 fe80::/64                No vínculo
+ 10    291 fe80::bba:456c:de08:fe33/128
+                                    No vínculo
+  1    331 ff00::/8                 No vínculo
+ 10    291 ff00::/8                 No vínculo
+===========================================================================
+Rotas persistentes:
+  Nenhuma
+
+
+Listar conexões ativas
+----------------------
+
+Conexões ativas
+
+  Proto  Endereço local         Endereço externo       Estado
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:2869           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:3306           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:5432           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:33060          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49675          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:50131          0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:4026         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:49671        127.0.0.1:49672        ESTABLISHED
+  TCP    127.0.0.1:49672        127.0.0.1:49671        ESTABLISHED
+  TCP    127.0.0.1:49673        127.0.0.1:49674        ESTABLISHED
+  TCP    127.0.0.1:49674        127.0.0.1:49673        ESTABLISHED
+  TCP    127.0.0.1:49745        0.0.0.0:0              LISTENING
+  TCP    192.168.0.5:139        0.0.0.0:0              LISTENING
+  TCP    192.168.0.5:4209       35.190.10.96:443       ESTABLISHED
+  TCP    192.168.0.5:4462       52.168.117.170:443     ESTABLISHED
+  TCP    192.168.0.5:4470       192.16.48.200:443      ESTABLISHED
+  TCP    [::]:135               [::]:0                 LISTENING
+  TCP    [::]:445               [::]:0                 LISTENING
+  TCP    [::]:2869              [::]:0                 LISTENING
+  TCP    [::]:3306              [::]:0                 LISTENING
+  TCP    [::]:5432              [::]:0                 LISTENING
+  TCP    [::]:7680              [::]:0                 LISTENING
+  TCP    [::]:33060             [::]:0                 LISTENING
+  TCP    [::]:49664             [::]:0                 LISTENING
+  TCP    [::]:49665             [::]:0                 LISTENING
+  TCP    [::]:49666             [::]:0                 LISTENING
+  TCP    [::]:49667             [::]:0                 LISTENING
+  TCP    [::]:49668             [::]:0                 LISTENING
+  TCP    [::]:49675             [::]:0                 LISTENING
+  TCP    [::]:50131             [::]:0                 LISTENING
+  TCP    [::1]:5432             [::1]:49676            ESTABLISHED
+  TCP    [::1]:49669            [::]:0                 LISTENING
+  TCP    [::1]:49676            [::1]:5432             ESTABLISHED
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4023  [2800:3f0:4003:c08::bc]:5228  ESTABLISHED
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4056  [2603:1030:210:f::1]:443  ESTABLISHED
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4157  [2606:4700:4400::ac40:92d7]:443  ESTABLISHED
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4226  [2600:1419:ac00::172d:ea1]:443  CLOSE_WAIT
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4231  [2600:1419:ac00::172d:edb]:443  CLOSE_WAIT
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4232  [2600:1419:ac00::172d:edb]:443  CLOSE_WAIT
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4233  [2600:1419:ac00::172d:edb]:443  CLOSE_WAIT
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4234  [2600:1419:ac00::172d:edb]:443  CLOSE_WAIT
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4235  [2600:1419:ac00::172d:edb]:443  CLOSE_WAIT
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4236  [2600:1419:ac00::172d:edb]:443  CLOSE_WAIT
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4315  [2606:4700:4400::ac40:9bd1]:443  ESTABLISHED
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4316  [2606:4700:4400::6812:202f]:443  ESTABLISHED
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4442  [2600:1901:0:47fc::]:443  ESTABLISHED
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:49856          *:*                    
+  UDP    0.0.0.0:57523          *:*                    
+  UDP    0.0.0.0:58347          *:*                    
+  UDP    0.0.0.0:58348          *:*                    
+  UDP    0.0.0.0:59277          *:*                    
+  UDP    0.0.0.0:59278          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:10220        *:*                    
+  UDP    127.0.0.1:49664        127.0.0.1:49664        
+  UDP    127.0.0.1:55513        *:*                    
+  UDP    127.0.0.1:62983        *:*                    
+  UDP    192.168.0.5:137        *:*                    
+  UDP    192.168.0.5:138        *:*                    
+  UDP    192.168.0.5:1900       *:*                    
+  UDP    192.168.0.5:2177       *:*                    
+  UDP    192.168.0.5:55512      *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:49856             *:*                    
+  UDP    [::]:57523             *:*                    
+  UDP    [::]:58348             *:*                    
+  UDP    [::]:59277             *:*                    
+  UDP    [::]:59279             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:55511            *:*                    
+  UDP    [2804:14c:5bd0:85c1:c336:793f:d8b6:dfe9]:2177  *:*                    
+  UDP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:2177  *:*                    
+  UDP    [fe80::bba:456c:de08:fe33%10]:1900  *:*                    
+  UDP    [fe80::bba:456c:de08:fe33%10]:2177  *:*                    
+  UDP    [fe80::bba:456c:de08:fe33%10]:55510  *:*                    
+
+
+Mostrar nomes NetBIOS
+---------------------
+    
+Wi-Fi:
+Endereço-Ip nó: [192.168.0.5] Identificador de escopo: []
+
+            Tabela de nomes locais de NetBIOS
+
+       Nome               Tipo         Status
+    ---------------------------------------------
+    DEV1           <00>  EXCLUSIVO   Registrado 
+    DEV1           <20>  EXCLUSIVO   Registrado 
+    CASA           <00>  GRUPO       Registrado 
+    
+Conexão Local* 3:
+Endereço-Ip nó: [0.0.0.0] Identificador de escopo: []
+
+    Não há nomes no cache
+    
+Conexão Local* 4:
+Endereço-Ip nó: [0.0.0.0] Identificador de escopo: []
+
+    Não há nomes no cache
+
+
+Informações dos adaptadores de rede
+-----------------------------------
+
+Configuração de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : DEV1
+   Sufixo DNS primário . . . . . . . . . . . . : 
+   Tipo de nó. . . . . . . . . . . . . . . . . : híbrido
+   Roteamento de IP ativado. . . . . . . . . . : não
+   Proxy WINS ativado. . . . . . . . . . . . . : não
+
+Adaptador de Rede sem Fio Conexão Local* 3:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . : 
+   Descrição . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Endereço Físico . . . . . . . . . . . . . . : 80-38-FB-61-E7-BC
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conexão Local* 4:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . : 
+   Descrição . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #4
+   Endereço Físico . . . . . . . . . . . . . . : 82-38-FB-61-E7-BB
+   DHCP Habilitado . . . . . . . . . . . . . . : Não
+   Configuração Automática Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS específico de conexão. . . . . . : 
+   Descrição . . . . . . . . . . . . . . . . . : Intel(R) Wireless-AC 9560
+   Endereço Físico . . . . . . . . . . . . . . : 80-38-FB-61-E7-BB
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 . . . . . . . . . . : 2804:14c:5bd0:85c1:c336:793f:d8b6:dfe9(Preferencial) 
+   Endereço IPv6 Temporário. . . . . . . . : 2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb(Preferencial) 
+   Endereço IPv6 de link local . . . . . . . . : fe80::bba:456c:de08:fe33%10(Preferencial) 
+   Endereço IPv4. . . . . . . .  . . . . . . . : 192.168.0.5(Preferencial) 
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concessão Obtida. . . . . . . . . . . . . . : sábado, 30 de novembro de 2024 08:56:26
+   Concessão Expira. . . . . . . . . . . . . . : quarta-feira, 7 de janeiro de 2161 18:13:34
+   Gateway Padrão. . . . . . . . . . . . . . . : fe80::1%10
+                                                 192.168.0.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.0.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 125843707
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2B-66-E6-5B-80-38-FB-61-E7-BB
+   Servidores DNS. . . . . . . . . . . . . . . : 192.168.0.1
+                                                 fe80::1%10
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+
+Testar conectividade com Google
+-------------------------------
+
+Disparando google.com [2800:3f0:4004:802::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+
+Estatísticas do Ping para 2800:3f0:4004:802::200e:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 11ms, Máximo = 12ms, Média = 11ms
+
+
+Listar conexões ativas
+----------------------
+
+Conexões ativas
+
+  Proto  Endereço local         Endereço externo       Estado
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:3306           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:5432           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:33060          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49675          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:50131          0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:4026         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:49671        127.0.0.1:49672        ESTABLISHED
+  TCP    127.0.0.1:49672        127.0.0.1:49671        ESTABLISHED
+  TCP    127.0.0.1:49673        127.0.0.1:49674        ESTABLISHED
+  TCP    127.0.0.1:49674        127.0.0.1:49673        ESTABLISHED
+  TCP    127.0.0.1:49745        0.0.0.0:0              LISTENING
+  TCP    192.168.0.5:139        0.0.0.0:0              LISTENING
+  TCP    192.168.0.5:4513       20.44.10.122:443       ESTABLISHED
+  TCP    192.168.0.5:4525       34.107.199.61:443      ESTABLISHED
+  TCP    192.168.0.5:4526       192.73.251.162:443     CLOSE_WAIT
+  TCP    [::]:135               [::]:0                 LISTENING
+  TCP    [::]:445               [::]:0                 LISTENING
+  TCP    [::]:3306              [::]:0                 LISTENING
+  TCP    [::]:5432              [::]:0                 LISTENING
+  TCP    [::]:7680              [::]:0                 LISTENING
+  TCP    [::]:33060             [::]:0                 LISTENING
+  TCP    [::]:49664             [::]:0                 LISTENING
+  TCP    [::]:49665             [::]:0                 LISTENING
+  TCP    [::]:49666             [::]:0                 LISTENING
+  TCP    [::]:49667             [::]:0                 LISTENING
+  TCP    [::]:49668             [::]:0                 LISTENING
+  TCP    [::]:49675             [::]:0                 LISTENING
+  TCP    [::]:50131             [::]:0                 LISTENING
+  TCP    [::1]:5432             [::1]:49676            ESTABLISHED
+  TCP    [::1]:49669            [::]:0                 LISTENING
+  TCP    [::1]:49676            [::1]:5432             ESTABLISHED
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4023  [2800:3f0:4003:c08::bc]:5228  ESTABLISHED
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4056  [2603:1030:210:f::1]:443  ESTABLISHED
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4157  [2606:4700:4400::ac40:92d7]:443  ESTABLISHED
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4226  [2600:1419:ac00::172d:ea1]:443  CLOSE_WAIT
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4231  [2600:1419:ac00::172d:edb]:443  CLOSE_WAIT
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4232  [2600:1419:ac00::172d:edb]:443  CLOSE_WAIT
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4233  [2600:1419:ac00::172d:edb]:443  CLOSE_WAIT
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4234  [2600:1419:ac00::172d:edb]:443  CLOSE_WAIT
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4235  [2600:1419:ac00::172d:edb]:443  CLOSE_WAIT
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4236  [2600:1419:ac00::172d:edb]:443  CLOSE_WAIT
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4315  [2606:4700:4400::ac40:9bd1]:443  ESTABLISHED
+  TCP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:4316  [2606:4700:4400::6812:202f]:443  ESTABLISHED
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:56618          *:*                    
+  UDP    0.0.0.0:58347          *:*                    
+  UDP    0.0.0.0:58348          *:*                    
+  UDP    0.0.0.0:58360          *:*                    
+  UDP    0.0.0.0:59278          *:*                    
+  UDP    0.0.0.0:62534          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:10220        *:*                    
+  UDP    127.0.0.1:49664        127.0.0.1:49664        
+  UDP    127.0.0.1:55513        *:*                    
+  UDP    127.0.0.1:62983        *:*                    
+  UDP    192.168.0.5:137        *:*                    
+  UDP    192.168.0.5:138        *:*                    
+  UDP    192.168.0.5:1900       *:*                    
+  UDP    192.168.0.5:2177       *:*                    
+  UDP    192.168.0.5:55512      *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:56618             *:*                    
+  UDP    [::]:58348             *:*                    
+  UDP    [::]:58360             *:*                    
+  UDP    [::]:59279             *:*                    
+  UDP    [::]:62534             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:55511            *:*                    
+  UDP    [2804:14c:5bd0:85c1:c336:793f:d8b6:dfe9]:2177  *:*                    
+  UDP    [2804:14c:5bd0:85c1:cdc2:ac0d:3700:81eb]:2177  *:*                    
+  UDP    [fe80::bba:456c:de08:fe33%10]:1900  *:*                    
+  UDP    [fe80::bba:456c:de08:fe33%10]:2177  *:*                    
+  UDP    [fe80::bba:456c:de08:fe33%10]:55510  *:*                    
+
+
+Exibir tabela ARP
+-----------------
+
+Interface: 192.168.0.5 --- 0xa
+  Endereço IP           Endereço físico       Tipo
+  192.168.0.1           e4-66-ab-59-17-66     dinâmico  
+  192.168.0.4           40-e2-30-38-78-70     dinâmico  
+  192.168.0.255         ff-ff-ff-ff-ff-ff     estático  
+  224.0.0.22            01-00-5e-00-00-16     estático  
+  224.0.0.251           01-00-5e-00-00-fb     estático  
+  224.0.0.252           01-00-5e-00-00-fc     estático  
+  239.255.255.250       01-00-5e-7f-ff-fa     estático  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     estático  
+
+
+Mostrar rota para Google
+------------------------
+
+Rastreando a rota para google.com [2800:3f0:4004:802::200e]
+com no máximo 30 saltos:
+
+  1     *        *        *     Esgotado o tempo limite do pedido.
+  2    18 ms     7 ms     7 ms  2804:14c:5bd0:1000::1 
+  3     5 ms     6 ms     6 ms  2804:14c:5b00:71::1 
+  4     5 ms     5 ms     6 ms  2804:a8:2:80::dd2 
+  5     5 ms     4 ms     4 ms  2804:a8:2:80::dd5 
+  6     *        *        *     Esgotado o tempo limite do pedido.
+  7    12 ms    12 ms    12 ms  2804:a8:2:b0::11ca 
+  8    12 ms    11 ms    12 ms  2800:3f0:8054::1 
+  9    12 ms    13 ms    13 ms  2001:4860:0:1::517a 
+ 10    12 ms    12 ms    12 ms  2001:4860:0:1::5183 
+ 11    12 ms    12 ms    11 ms  2800:3f0:4004:802::200e 
+
+Rastreamento concluído.
+
+
+Mostrar nomes NetBIOS
+---------------------
+    
+Wi-Fi:
+Endereço-Ip nó: [192.168.0.5] Identificador de escopo: []
+
+            Tabela de nomes locais de NetBIOS
+
+       Nome               Tipo         Status
+    ---------------------------------------------
+    DEV1           <00>  EXCLUSIVO   Registrado 
+    DEV1           <20>  EXCLUSIVO   Registrado 
+    CASA           <00>  GRUPO       Registrado 
+    
+Conexão Local* 3:
+Endereço-Ip nó: [0.0.0.0] Identificador de escopo: []
+
+    Não há nomes no cache
+    
+Conexão Local* 4:
+Endereço-Ip nó: [0.0.0.0] Identificador de escopo: []
+
+    Não há nomes no cache
+
+
+Mostrar rota para Google
+------------------------
+
+Rastreando a rota para google.com [2800:3f0:4004:802::200e]
+com no máximo 30 saltos:
+
+  1     *        *        *     Esgotado o tempo limite do pedido.
+  2    14 ms    10 ms    11 ms  2804:14c:5bd0:1000::1 
+  3     6 ms     6 ms     6 ms  2804:14c:5b00:71::1 
+  4     5 ms     5 ms     5 ms  2804:a8:2:80::dd2 
+  5     4 ms     4 ms     4 ms  2804:a8:2:80::dd5 
+  6     *        *        *     Esgotado o tempo limite do pedido.
+  7    12 ms    12 ms    12 ms  2804:a8:2:b0::11ca 
+  8    12 ms    12 ms    12 ms  2800:3f0:8054::1 
+  9    13 ms    13 ms    13 ms  2001:4860:0:1::517a 
+ 10    12 ms    12 ms    12 ms  2001:4860:0:1::5183 
+ 11    12 ms    11 ms    12 ms  2800:3f0:4004:802::200e 
+
+Rastreamento concluído.
+
+
