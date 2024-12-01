@@ -29,6 +29,14 @@ A aplicação executa comandos comuns de diagnóstico do Windows, como `ipconfig
 
 ---
 
+## 🖥️ **Tela da ferramenta**
+
+![Tela da ferramenta de diagnóstico](tela01.png)
+
+Legenda: Tela inicial da ferramenta mostrando as opções de diagnóstico e limpeza de arquivos temporários.
+
+---
+
 ## 🛠️ **Pré-requisitos**
 
 - Ter o Python instalado na máquina.
@@ -51,3 +59,10 @@ Além disso, ao limpar **cache e cookies do Google Chrome**, todos os dados arma
    ```bash
    git clone https://github.com/seu-usuario/diagnostico-windows-gui.git
    cd diagnostico-windows-gui
+
+## 📋 **Dependências do Projeto**
+
+- `requests`: Biblioteca para fazer requisições HTTP.
+- `psutil`: Biblioteca para acessar informações sobre o sistema (como CPU, memória e processos).
+
+Essas bibliotecas são necessárias para algumas funcionalidades da ferramenta.
